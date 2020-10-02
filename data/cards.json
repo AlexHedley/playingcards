@@ -27,6 +27,13 @@
             "link":"",
             "image":"images/safc.jpeg",
             "category":""
+        },
+        {
+            "name":"Card box",
+            "description":"Wooden card box",
+            "link":"",
+            "image":"images/card-box.jpeg",
+            "category":""
         }
     ]
 }
