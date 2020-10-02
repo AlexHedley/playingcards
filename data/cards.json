@@ -34,6 +34,13 @@
             "link":"",
             "image":"images/card-box.jpeg",
             "category":""
+        },
+        {
+            "name":"Kings and Queens of England",
+            "description":"",
+            "link":"",
+            "image":"images/kandq.jpeg",
+            "category":""
         }
     ]
 }
