@@ -244,6 +244,13 @@
             "link":"",
             "image":"images/wagchristmas.jpeg",
             "category":""
+        },
+        {
+            "name":"Mini",
+            "description":"",
+            "link":"",
+            "image":"images/mini.jpeg",
+            "category":""
         }
     ]
 }
