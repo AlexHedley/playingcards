@@ -251,6 +251,13 @@
             "link":"",
             "image":"images/mini.jpeg",
             "category":""
+        },
+        {
+            "name":"Mini Faces",
+            "description":"",
+            "link":"",
+            "image":"images/minifaces.jpeg",
+            "category":""
         }
     ]
 }
