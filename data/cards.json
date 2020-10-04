@@ -279,6 +279,13 @@
             "link":"",
             "image":"images/plasticcoated.jpeg",
             "category":""
+        },
+        {
+            "name":"Ante",
+            "description":"",
+            "link":"",
+            "image":"images/ante.jpeg",
+            "category":""
         }
     ]
 }
