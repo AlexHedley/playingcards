@@ -139,6 +139,13 @@
             "link":"",
             "image":"images/harrypotter.jpeg",
             "category":""
+        },
+        {
+            "name":"Wallace and Gromit",
+            "description":"",
+            "link":"",
+            "image":"images/wallaceandgromit.jpeg",
+            "category":""
         }
     ]
 }
