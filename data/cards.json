@@ -237,6 +237,13 @@
             "link":"",
             "image":"images/waddingtons.jpeg",
             "category":""
+        },
+        {
+            "name":"Wallace and Gromit Christmas",
+            "description":"",
+            "link":"",
+            "image":"images/wagchristmas.jpeg",
+            "category":""
         }
     ]
 }
