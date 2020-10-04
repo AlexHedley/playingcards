@@ -57,7 +57,7 @@
             "category":""
         },
         {
-            "name":University Poker League",
+            "name":"University Poker League",
             "description":"Newcastle Uni?",
             "link":"",
             "image":"images/universitypokerleague.jpeg",
@@ -68,6 +68,13 @@
             "description":"",
             "link":"",
             "image":"images/tedbaker.jpeg",
+            "category":""
+        },
+        {
+            "name":"Playing Cards with a hole",
+            "description":"",
+            "link":"",
+            "image":"images/playingcardswithahole.jpeg",
             "category":""
         }
     ]
