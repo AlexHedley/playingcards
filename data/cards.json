@@ -230,6 +230,13 @@
             "link":"",
             "image":"images/dukespecial.jpeg",
             "category":""
+        },
+        {
+            "name":"Waddingtons",
+            "description":"",
+            "link":"",
+            "image":"images/waddingtons.jpeg",
+            "category":""
         }
     ]
 }
