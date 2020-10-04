@@ -132,6 +132,13 @@
             "link":"https://cultmoviecards.com",
             "image":"images/cmc.jpeg",
             "category":""
+        },
+        {
+            "name":"Harry Potter",
+            "description":"",
+            "link":"",
+            "image":"images/harrypotter.jpeg",
+            "category":""
         }
     ]
 }
