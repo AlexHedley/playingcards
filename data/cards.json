@@ -223,6 +223,13 @@
             "link":"",
             "image":"images/texasholdem.jpeg",
             "category":""
+        },
+        {
+            "name":"Duke Special",
+            "description":"",
+            "link":"",
+            "image":"images/dukespecial.jpeg",
+            "category":""
         }
     ]
 }
