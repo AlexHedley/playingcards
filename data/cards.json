@@ -272,6 +272,13 @@
             "link":"",
             "image":"images/jumbo.jpeg",
             "category":""
+        },
+        {
+            "name":"Plastic Coated",
+            "description":"",
+            "link":"",
+            "image":"images/plasticcoated.jpeg",
+            "category":""
         }
     ]
 }
