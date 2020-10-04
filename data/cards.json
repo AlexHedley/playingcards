@@ -160,6 +160,13 @@
             "link":"",
             "image":"images/nrmyork.jpeg",
             "category":""
+        },
+        {
+            "name":"Dice",
+            "description":"",
+            "link":"",
+            "image":"images/dice.jpeg",
+            "category":"misc"
         }
     ]
 }
