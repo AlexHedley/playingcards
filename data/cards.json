@@ -167,6 +167,13 @@
             "link":"",
             "image":"images/dice.jpeg",
             "category":"misc"
+        },
+        {
+            "name":"Invisible Cards",
+            "description":"",
+            "link":"",
+            "image":"images/invisiblecards.jpeg",
+            "category":""
         }
     ]
 }
