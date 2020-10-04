@@ -57,12 +57,18 @@
             "category":""
         },
         {
-            "name":"universitypokerleague",
-            "description":"",
+            "name":University Poker League",
+            "description":"Newcastle Uni?",
             "link":"",
             "image":"images/universitypokerleague.jpeg",
             "category":""
+        },
+        {
+            "name":"Ted Baker",
+            "description":"",
+            "link":"",
+            "image":"images/tedbaker.jpeg",
+            "category":""
         }
-        
     ]
 }
