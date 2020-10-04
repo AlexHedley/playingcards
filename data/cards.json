@@ -90,6 +90,13 @@
             "link":"",
             "image":"images/roundplayingcards.jpeg",
             "category":""
+        },
+        {
+            "name":"Stargate SG1",
+            "description":"",
+            "link":"",
+            "image":"images/stargatesg1.jpeg",
+            "category":""
         }
     ]
 }
