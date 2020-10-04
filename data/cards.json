@@ -265,6 +265,13 @@
             "link":"",
             "image":"images/box.jpeg",
             "category":""
+        },
+        {
+            "name":"Jumbo",
+            "description":"",
+            "link":"",
+            "image":"images/jumbo.jpeg",
+            "category":""
         }
     ]
 }
