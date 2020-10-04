@@ -76,6 +76,13 @@
             "link":"",
             "image":"images/playingcardswithahole.jpeg",
             "category":""
+        },
+        {
+            "name":"Playing Cards with a hole",
+            "description":"",
+            "link":"https://www.kickstarter.com/projects/drawsgood/the-8bit-deck-a-pixel-art-playing-card-deck",
+            "image":"images/8bit.jpeg",
+            "category":""
         }
     ]
 }
