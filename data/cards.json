@@ -104,6 +104,13 @@
             "link":"",
             "image":"images/universityofessex.jpeg",
             "category":""
+        },
+        {
+            "name":"The Simpsons",
+            "description":"",
+            "link":"",
+            "image":"images/thesimpsons.jpeg",
+            "category":""
         }
     ]
 }
