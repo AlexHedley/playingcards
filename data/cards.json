@@ -188,6 +188,13 @@
             "link":"",
             "image":"images/nintendo.jpeg",
             "category":""
+        },
+        {
+            "name":"Muji",
+            "description":"",
+            "link":"",
+            "image":"images/muji.jpeg",
+            "category":""
         }
     ]
 }
