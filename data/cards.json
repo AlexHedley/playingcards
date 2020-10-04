@@ -97,6 +97,13 @@
             "link":"",
             "image":"images/stargatesg1.jpeg",
             "category":""
+        },
+        {
+            "name":"University of Essex",
+            "description":"",
+            "link":"",
+            "image":"images/universityofessex.jpeg",
+            "category":""
         }
     ]
 }
