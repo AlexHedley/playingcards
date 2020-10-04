@@ -258,6 +258,13 @@
             "link":"",
             "image":"images/minifaces.jpeg",
             "category":""
+        },
+        {
+            "name":"Box",
+            "description":"",
+            "link":"",
+            "image":"images/box.jpeg",
+            "category":""
         }
     ]
 }
