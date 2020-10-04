@@ -55,6 +55,14 @@
             "link":"",
             "image":"images/damart.jpeg",
             "category":""
+        },
+        {
+            "name":"universitypokerleague",
+            "description":"",
+            "link":"",
+            "image":"images/universitypokerleague.jpeg",
+            "category":""
         }
+        
     ]
 }
