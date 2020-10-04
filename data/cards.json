@@ -33,7 +33,7 @@
             "description":"Wooden card box",
             "link":"",
             "image":"images/card-box.jpeg",
-            "category":""
+            "category":"misc"
         },
         {
             "name":"Kings and Queens of England",
@@ -146,6 +146,13 @@
             "link":"",
             "image":"images/wallaceandgromit.jpeg",
             "category":""
+        },
+        {
+            "name":"Card Holder",
+            "description":"",
+            "link":"",
+            "image":"images/cardholder.jpeg",
+            "category":"misc"
         }
     ]
 }
