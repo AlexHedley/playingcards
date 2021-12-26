@@ -11,4 +11,17 @@ My collection of Playing Cards.
 [![GitHub issues](https://img.shields.io/github/issues/AlexHedley/playingcards.svg)](https://GitHub.com/AlexHedley/playingcards/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/AlexHedley/playingcards.svg)](https://GitHub.com/AlexHedley/playingcards/issues?q=is%3Aissue+is%3Aclosed) | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/AlexHedley/playingcards.svg)](https://GitHub.com/AlexHedley/playingcards/pull/) | [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-See the [site](https://alexhedley.github.io/playingcards/)
+## Site
+
+- [Published](https://alexhedley.github.io/playingcards)
+- [local](http://localhost:8000/)
+
+## Run
+
+`py -m http.server`
+
+- [local](http://localhost:8000/)
+
+## License
+
+- [MIT License](LICENSE)

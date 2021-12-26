@@ -5,3 +5,8 @@ body {
 h1 {
     color: #228B22;
 }
+
+card-t > img {
+    height: 50px;
+    /* width: 10px; */
+}

@@ -30,7 +30,7 @@
 
         <section class="jumbotron title-container text-center">
             <div>
-                <h1>Playing Cards</h1>
+                <h1><card-t cid=Ah></card-t> Playing Cards</h1>
 
                 <div class="row justify-content-md-center">
                     <div class="col-lg-8">
@@ -47,6 +47,13 @@
         <div ng-controller="myController">
 
             <div class="container">
+
+                <div class="row">
+                    <div class="col">
+                        
+                    </div>
+                </div>
+
                 <div class="row">
                     <div 
                         ng-repeat="deck in decks | filter:searchText"
@@ -87,6 +94,10 @@
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
     <script src="js/angular.min.js"></script>
+
+    <!-- <script src="js/cards/elements.cardmeister.full.js"></script> -->
+    <script src="js/cards/elements.cardmeister.min.js"></script>
+
     <script src="js/app.js"></script>
     </body>
 </html>
