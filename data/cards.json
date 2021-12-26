@@ -1,6 +1,13 @@
 {
     "decks": [
         {
+            "name":"The Beatles",
+            "description":"Orange",
+            "link":"https://store.theory11.com/products/beatles-playing-cards",
+            "image":"images/the-beatles.png",
+            "category":""
+        },
+        {
             "name":"James Bond",
             "description":"James Bond",
             "link":"https://store.theory11.com/collections/playingcards/products/james-bond-playing-cards",
