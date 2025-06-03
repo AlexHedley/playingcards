@@ -6,6 +6,11 @@ h1 {
     color: #228B22;
 }
 
+.container {
+  /* max-width: 1140px; */
+  max-width: 1500px;
+}
+
 card-t > img {
     height: 50px;
     /* width: 10px; */

@@ -30,8 +30,7 @@
 
         <section class="jumbotron title-container text-center">
             <div>
-                <h1><card-t cid=Ah></card-t> Playing Cards</h1>
-                <card-t rank=0 backtext=" "></card-t>
+                <h1><card-t cid=Ah></card-t> Playing Cards <card-t rank=0 backtext=" "></card-t></h1>
 
                 <div class="row justify-content-md-center">
                     <div class="col-lg-8">
@@ -58,11 +57,11 @@
                 <div class="row">
                     <div 
                         ng-repeat="deck in decks | filter:searchText"
-                        class="col-md-4"
+                        class="col-md-3"
                         style="margin-bottom: 50px;"
                     >
                         <div class="card" style="width: 18rem;">
-                            <img ng-src="/playingcards/{{deck.image}}" class="card-img-top" alt="{{deck.name}}">
+                            <img ng-src="{{deck.image}}" class="card-img-top" alt="{{deck.name}}">
                             <div class="card-body">
                                 <h5 class="card-title">{{deck.name}}</h5>
                                 <p class="card-text">{{deck.description}}</p>
@@ -88,12 +87,7 @@
     <script src="js/jquery-3.7.1.min.js" ></script>
     <script>window.jQuery || document.write('<script src="js/jquery-3.7.1.slim.min.js"><\/script>')</script>
     <script src="js/jquery-ui.min.js"></script>
-    <!-- <script src="js/jquery-ui.1.12.1.min.js"></script> -->
-    <!-- <script src="js/popper.min.js"></script> -->
     <script src="js/bootstrap.min.js"></script>
-    <!-- <script src="js/jquery.pretty-text-diff.min.js"></script> -->
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
     <script src="js/angular.min.js"></script>
 
     <!-- <script src="js/cards/elements.cardmeister.full.js"></script> -->
