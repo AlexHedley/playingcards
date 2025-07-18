@@ -1,6 +1,14 @@
 {
     "decks": [
         {
+            "name": "Balatro Playing Card Deck",
+            "description": "By Tony Kuchar",
+            "link": "https://www.fangamer.eu/products/balatro-playing-cards",
+            "image": "images/balatro.png",
+            "category": "",
+            "price": "€18 (inc. VAT)"
+        },
+        {
             "name": "Piracy Playing Cards",
             "description": "Theory 11",
             "link": "https://store.theory11.com/products/piracy-playing-cards",
