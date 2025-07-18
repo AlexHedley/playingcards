@@ -1,6 +1,14 @@
 {
     "decks": [
         {
+            "name": "Piracy Playing Cards",
+            "description": "Theory 11",
+            "link": "https://store.theory11.com/products/piracy-playing-cards",
+            "image": "images/piracy.png",
+            "category": "",
+            "price": "$19.95"
+        },
+        {
             "name": "Lord of the Rings Playing Cards",
             "description": "Theory 11",
             "link": "https://store.theory11.com/products/lord-of-the-rings-playing-cards",
