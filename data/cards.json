@@ -1,6 +1,14 @@
 {
     "decks": [
         {
+            "name": "Game Of Thrones - Studio Tour",
+            "description": "Map - Playing Cards",
+            "link": "https://shop.gameofthronesstudiotour.com/products/map-playing-cards",
+            "image": "images/got.png",
+            "category": "",
+            "price": "£5.00"
+        },
+        {
             "name": "Guinness",
             "description": "",
             "link": "",
