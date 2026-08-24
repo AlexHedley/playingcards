@@ -1,6 +1,14 @@
 {
     "decks": [
         {
+            "name": "Guinness",
+            "description": "",
+            "link": "",
+            "image": "images/guinness.png",
+            "category": "",
+            "price": ""
+        },
+        {
             "name": "Balatro Playing Card Deck",
             "description": "By Tony Kuchar",
             "link": "https://www.fangamer.eu/products/balatro-playing-cards",
